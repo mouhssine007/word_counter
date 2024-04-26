@@ -1,0 +1,2 @@
+export const INSTAGRAM_MAX_CARACTERS = 280;
+export const FACEBOOK_MAX_CARACTERES =2200;
